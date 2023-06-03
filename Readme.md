@@ -7,6 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [🚀 Live Demo](#live-demo)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -62,6 +63,14 @@
 - **Delete recipes**
 - **Make recipe public or private**
 - **generate shopping list for missing ingredients in the inventory**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://effulgent-gecko-2ad84b.netlify.app)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
